@@ -1,0 +1,23 @@
+{
+  "name": "klass",
+  "version": "1.0.0",
+  "description": "This is a google classroom alternative specifically created for implementation in KIIT University.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B322/Klass.git"
+  },
+  "author": "Anmol and Dipesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B322/Klass/issues"
+  },
+  "homepage": "https://github.com/B322/Klass#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
